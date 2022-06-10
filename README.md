@@ -4,7 +4,7 @@
     <a href="https://codepen.io/everton-nfs"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
     <a href="https://api.whatsapp.com/send?phone=5571992862071&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
     <div>
-        💻 Hoje trabalho com front-end - 📘 Estudando Vue
+        💻 Hoje trabalho com front-end - 📘 Estudando Vue - 🏠 OpenToWork
     </div>
 </div>
 
