@@ -1,5 +1,5 @@
 <div>
-    <h3>👋 Olá! Eu sou o Everton Novaes</h3>
+    <h3>👋 Olá! Eu sou Everton Novaes, autodidata com desenvolvimento Front-end e disposto a aprender coisas novas!</h3>
     <a href="https://www.linkedin.com/in/everton-nfs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
     <a href="https://codepen.io/everton-nfs"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"/></a>
     <a href="https://api.whatsapp.com/send?phone=5571992862071&text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
@@ -16,7 +16,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&count_private=true&show_icons=true&theme=tokyonight&title_color=000include_all_commits=true"/>
 </div>
 
-### 🚀 Skills
+<h3>🚀 Skills</h3>
 
 <div><br/>
     <img align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
