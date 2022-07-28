@@ -6,7 +6,7 @@
     <a href="mailto:evertonnfs2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
     <ul>
         <li>💻 Hoje trabalho com front-end</li>
-        <li>📘 Estudando Vue</li>
+        <li>📘 Estudando Laravel e Vue</li>
         <li>🏠 OpenToWork</li>
     </ul>
 </div>
