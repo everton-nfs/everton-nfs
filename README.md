@@ -14,6 +14,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-nfs&layout=compact&theme=tokyonight" />
 </div>
 
 <h3>🚀 Habilidades Principais</h3>
