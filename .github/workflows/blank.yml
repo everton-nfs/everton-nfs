@@ -1,7 +1,5 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
-
 name: Generate Snake
 
 # Controls when the action will run.
@@ -13,7 +11,7 @@ on:
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
@@ -38,6 +36,8 @@ jobs:
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+          color_snake: "#FFD700"  # Cor da cobra (você pode ajustar essa cor também)
+          color_dots: "#161b22"   # Cor dos pontos onde não há commits (ajustado para #161b22)
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
