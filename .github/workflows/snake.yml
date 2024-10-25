@@ -3,7 +3,7 @@ name: Generate snake animation
 on:
   push:
     branches:
-      - main  # Mude para o nome da sua branch principal, se necessário.
+      - main
 
 jobs:
   snake:
@@ -15,6 +15,6 @@ jobs:
       - name: Generate snake animation
         uses: platane/snk@master
         with:
-          github_user: 'everton-nfs' # Seu nome de usuário do GitHub
-          svg_out: 'output/snake.svg'  # Caminho de saída da imagem
-          clean: true                   # (Opcional) Limpa a imagem anterior
+          github_user: 'everton-nfs' 
+          svg_out: 'output/snake.svg'
+          clean: true 
