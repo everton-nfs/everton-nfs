@@ -13,7 +13,7 @@
 <br>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&count_private=true&show_icons=true&theme=tokyonight&title_color=000include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&count_private=true&show_icons=true&theme=tokyonight&title_color=000&include_all_commits=true"/>
 </div>
 
 <h3>🚀 Habilidades Principais</h3>
