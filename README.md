@@ -12,8 +12,8 @@
 <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&count_private=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-nfs&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-nfs&layout=compact&langs_count=7&theme=react" />
 </div>
 
 ###
@@ -33,7 +33,10 @@
 </div>
 
 ![Snake animation](https://github.com/everton-nfs/everton-nfs/blob/output/github-contribution-grid-snake.svg)
+
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=everton-nfs&repo=everton-nfs&theme=react)](https://github.com/everton-nfs/everton-nfs)
+
+
 
 
 
