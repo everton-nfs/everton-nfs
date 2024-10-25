@@ -32,10 +32,6 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/everton-nfs/everton-nfs/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=everton-nfs&repo=everton-nfs&theme=react)](https://github.com/everton-nfs/everton-nfs)
-
 
 
 
