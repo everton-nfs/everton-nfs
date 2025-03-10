@@ -15,7 +15,7 @@
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=everton-nfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-nfs&layout=compact&langs_count=7&theme=tokyonight&title_color=fff" alt="Linguagens Mais Usadas"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-nfs&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens Mais Usadas"/>
 </div>
 
 ###
